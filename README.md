@@ -56,8 +56,11 @@ By using K-Means clustering, PCA for dimensionality reduction, and keyword analy
 | Page | Description |
 |------|-------------|
 | 📊 PCA Visualization | Explore recipe clusters in 2D space |
+![PCA](assets/pca_visual.png)
 | 🔥 Keyword Heatmap | View top keywords per cluster (ingredients/steps) |
+![Heatmap](assets/heatmap.png)
 | 🔍 Recipe Search | Search by keyword and view cluster-level average stats |
+![Search](assets/search_example.png)
 
 ---
 
